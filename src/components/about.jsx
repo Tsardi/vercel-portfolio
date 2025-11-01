@@ -23,7 +23,7 @@ const sampleAbout = [
         short: 'Interactive To-Do List',
         details:
             'Developed a dynamic to-do list application that allows users to add, edit, and delete tasks with real-time updates.',
-        link: 'https://github.com/Tsardi/interactive-todo'
+        link: 'innerg-todo-vercel.app'
     },
     {
         id: 4,
