@@ -12,7 +12,7 @@ function App() {
         <Projects />
         <section id="contact" className="section contact-section">
           <h1>Contact</h1>
-          <p>Get in touch at <a href="mailto:nidras33@gmail.com">terrence@example.com</a></p>
+          <p>Get in touch at <a href="mailto:nidras33@gmail.com">nidras33@gmail.com</a></p>
         </section>
       </main>
     </>
