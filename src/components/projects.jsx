@@ -12,8 +12,8 @@ const sampleProjects = [
   { 
     id: 2, 
     title: 'Theatre site', 
-    short: 'Weather app based on user location.',
-    details: 'A weather app using the users location that displays the weather for the current day and future days.',
+    short: 'A website for a local theatre group posting upcoming shows and dates.',
+    details: 'This theatre group page would include ticket sales, showtimes, dates, and tour stops. Including pictures for upcoming shows and reviews from fans.',
     link: 'https://github.com/terrencejay/theatre.git' },
   { id: 3, title: 'Rental Property Calculator',
     short: 'Simple rental property calculator using Python.',
