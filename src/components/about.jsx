@@ -7,7 +7,7 @@ const sampleAbout = [
         short: 'Theatre website',
         details: 
             'Created a website for a local theatre, in order to display showtimes and locations.',
-        link: '#'
+        link: 'https://theatre-ruby.vercel.app/'
     },
     {
         id: 2,
